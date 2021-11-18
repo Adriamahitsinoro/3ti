@@ -3,7 +3,7 @@ body{
 }
 #body{
 	width: 60%;
-	height: 800px;
+	height: fit-content;
 	background-color: white;
 	border: 4px black solid;
 	margin: auto;
@@ -17,15 +17,13 @@ body{
 	float: left;
 	margin-left: 50px;
 }
-h2{
+p{
 	margin-top: 0;
-	margin-left: 350px;
-	padding-top: 25px;
-	font-size: 35px;
-}
-h6{
-	margin-left: -400px;
+	padding-top: 5%;
+	max-width: 100%;
 	text-align: center;
+	font-size: 35px;
+	font-weight: bold;
 }
 #mid{
 	height: 550px;
@@ -40,6 +38,7 @@ div#mid div{
 	height: 100%;
 	background-color: #CCEDDD;
 	margin: 0px;
+	text-align: center;
 }
 #rmid{
 	width: 75%;
@@ -52,8 +51,8 @@ div#mid div{
 #img2{
 	display: block;
 	margin: auto;
-	margin-top: 3%;
-	width: 85%;
+	margin-top: 4%;
+	max-width: 100%;
 }
 #foot{
 	width: 100%;
@@ -69,15 +68,16 @@ div#lmid div{
 #txt{
 	margin-top: 40px;
 	margin-bottom: 40px;
+	width: 100%;
 }
 .ling{
-	width: 150px;
-	height: 50px;
+	width: 50%;
+	padding: 2%;
 	font-size: 18px;
-	line-height: 50px;
+	line-height: 40px;
+	margin-left: 20%;
 	margin-bottom: 20px;
-	margin-left: 23%;
-	border-radius: 50px;
+	border-radius: 25px;
 	background-color: #B6D4C5;
 }
 .ling a{
