@@ -33,6 +33,14 @@ p{
 div#mid div{
 	float: left;
 }
+#mid2{
+	height: 600px;
+	width:  100%;
+	background-color: pink;
+}
+div#mid2 div{
+	float: left;
+}
 #lmid{
 	width: 25%;
 	height: 100%;
