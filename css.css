@@ -34,7 +34,7 @@ div#mid div{
 	float: left;
 }
 #mid2{
-	height: 600px;
+	height: 650px;
 	width:  100%;
 	background-color: pink;
 }
@@ -60,7 +60,7 @@ div#mid2 div{
 	display: block;
 	margin: auto;
 	margin-top: 4%;
-	max-width: 100%;
+	max-width: 45%;
 }
 #foot{
 	width: 100%;
