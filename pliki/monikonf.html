@@ -36,7 +36,17 @@
 				</div>
 			</div>
 		</div>
-		<div id="foot">&#169; Page created by Prezydent<br>2022</div>
+		<div id="foot">
+			Stronę odwiedziło: <span id="visits">...</span> towarzyszy.<br>
+			&#169;Page created by Prezydent
+		</div>
 	</div>
+
+<script>
+	function cb(response) {
+	    document.getElementById('visits').innerText = response.value;
+	}
+</script>
+<script async src="https://api.countapi.xyz/hit/adriamahitsinoro.github.io/3ti/pliki/monikonf.html/visits?callback=cb"></script>
 </body>
 </html>
