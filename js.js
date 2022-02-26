@@ -32,7 +32,10 @@ function sem1m(){
     document.write('<a download href="Sem1/monikonf/monikonf_21_11_05.zip" class="pol">2021.11.05</a><br><a download href="Sem1/monikonf/monikonf_21_11_19.zip" class="pol">2021.11.19</a>')
 }
 function sem2m(){
-    document.write('Pusto tu trochę, polecamy wrócić do semestru pierwszego i skończyć zaległe zadania')
+    document.write('<a download href="Sem2/monikonf/monikonf_22_02_23.zip" class="pol">2022.02.23</a>')
+}
+function sem2s(){
+    document.write('<a download href="Sem2/sbd/sbd_22_02_23.zip" class="pol">2022.02.23</a>')
 }
 
 //<a download href="*.zip" class="pol">data</a><br>
