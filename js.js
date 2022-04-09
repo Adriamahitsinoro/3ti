@@ -32,10 +32,10 @@ function sem1m(){
     document.write('<a download href="Sem1/monikonf/monikonf_21_11_05.zip" class="pol">2021.11.05</a><br><a download href="Sem1/monikonf/monikonf_21_11_19.zip" class="pol">2021.11.19</a>')
 }
 function sem2m(){
-    document.write('<a download href="Sem2/monikonf/monikonf_22_02_23.zip" class="pol">2022.02.23</a><br><a download href="Sem2/monikonf/monikonf_22_03_02.zip" class="pol">2022.03.02</a><br><a download href="Sem2/monikonf/monikonf_22_03_16.zip" class="pol">2022.03.16</a><br><a download href="Sem2/monikonf/monikonf_22_03_23.zip" class="pol">2022.03.23</a><br><a download href="Sem2/monikonf/monikonf_22_03_30.zip" class="pol">2022.03.30</a>')
+    document.write('<a download href="Sem2/monikonf/monikonf_22_02_23.zip" class="pol">2022.02.23</a><br><a download href="Sem2/monikonf/monikonf_22_03_02.zip" class="pol">2022.03.02</a><br><a download href="Sem2/monikonf/monikonf_22_03_16.zip" class="pol">2022.03.16</a><br><a download href="Sem2/monikonf/monikonf_22_03_23.zip" class="pol">2022.03.23</a><br><a download href="Sem2/monikonf/monikonf_22_03_30.zip" class="pol">2022.03.30</a><br><a download href="Sem2/monikonf/monikonf_22_04_06.zip" class="pol">2022.04.06</a>')
 }
 function sem2s(){
-    document.write('<a download href="Sem2/sbd/sbd_22_02_23.zip" class="pol">2022.02.23</a><br><a download href="Sem2/sbd/sbd_22_03_02.zip" class="pol">2022.03.02</a><br><a download href="Sem2/sbd/sbd_22_03_16.zip" class="pol">2022.03.16</a><br><a download href="Sem2/sbd/sbd_22_03_30.zip" class="pol">2022.03.30</a>')
+    document.write('<a download href="Sem2/sbd/sbd_22_02_23.zip" class="pol">2022.02.23</a><br><a download href="Sem2/sbd/sbd_22_03_02.zip" class="pol">2022.03.02</a><br><a download href="Sem2/sbd/sbd_22_03_16.zip" class="pol">2022.03.16</a><br><a download href="Sem2/sbd/sbd_22_03_30.zip" class="pol">2022.03.30</a><br><a download href="Sem2/sbd/sbd_22_04_06.zip" class="pol">2022.04.06</a>')
 }
 
 //<a download href="*.zip" class="pol">data</a><br>
