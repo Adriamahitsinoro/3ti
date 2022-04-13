@@ -1,96 +1,14 @@
 body{
-	background-color: #E9E5EB;
-}
-#body{
-	width: 60%;
-	height: fit-content;
-	border: 4px black solid;
-	margin: auto;
-}
-#head{
+	background-color: #D9FAF8;
 	width: 100%;
-	height: 150px;
-	background-image:
-    linear-gradient(to right, rgba(151, 192, 199, 0.69), rgba(151, 192, 199, 1) 40%),
-    url('grafiki/dzik.png');
-	/*background-color: #97C0C7;*/
-}
-#img1{
-	float: left;
-	margin-left: 50px;
-}
-p{
-	margin-top: 0;
-	padding-top: 5%;
-	max-width: 100%;
-	text-align: center;
-	font-size: 35px;
-	font-weight: bold;
-}
-#mid{
-	height: 700px;
-	width:  100%;
-}
-div#mid div{
-	float: left;
-}
-#div1{
-	padding-top: 2%;
-	width: 100%;
-	text-align: center;
-}
-#div2{
-	padding-top: 2%;
-	width: 100%;
-	text-align: center;
-}
-#lmid{
-	width: 25%;
-	height: 100%;
-	background-color: #BAE0E3;
-	margin: 0px;
-	text-align: center;
-}
-#rmid{
-	width: 75%;
 	height: 100%;
 	background-color: #D9FAF8;
 	margin:  0 0px;
 	text-align: center;
 	padding: 0;
 }
-#img2{
-	display: block;
-	margin: auto;
-	margin-top: 4%;
-	max-width: 60%;
-}
-#foot{
-	width: 100%;
-	height: 70px;
-	background-color: #97C0C7;
-	text-align: center;
-	line-height: 35px;
-	color: #FFF;
-}
-div#lmid div{
-	float: left;
-	text-align: center;
-}
-#txt{
-	margin-top: 40px;
-	margin-bottom: 40px;
-	width: 100%;
-}
-.ling{
-	width: 50%;
-	padding: 2%;
-	font-size: 110%;
-	line-height: 40px;
-	margin-left: 20%;
-	margin-bottom: 20px;
-	border-radius: 25px;
-	background-color: #F39D9D;
+#rmid{
+	
 }
 a{
 	text-decoration: none;
