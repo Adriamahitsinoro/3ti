@@ -7,19 +7,22 @@ body{
 	text-align: center;
 	padding: 0;
 }
-#rmid{
-	
+h1{
+	font-family: 'Mukta', sans-serif;
 }
 a{
 	text-decoration: none;
 	color: black;
+	display: block;
+	width: 95px;
+	margin: auto;
 }
 .pol{
-	padding: 10px;
 	font-size: 18px;
 	line-height: 50px;
 	border-radius: 50px;
 	background-color: #F39D9A;
+	font-family: 'Akshar', sans-serif;
 }
 a.pol{
 	text-decoration: none;
