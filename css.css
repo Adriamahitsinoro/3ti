@@ -36,3 +36,7 @@ a:hover{
 #cboOptions{
 	font-size: 1.2em;
 }
+::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+}
